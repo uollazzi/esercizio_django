@@ -1,6 +1,9 @@
 # Esercizio Django Docker Compose
 
 ## Django Get Started
+Fate riferimento a questo tutorial per quanto riguarda Django.
+I files di partenza di questo progetto sono stati creati seguendo questo tutorial
+
 https://docs.djangoproject.com/en/4.2/intro/tutorial01/
 
 ## Architettura
